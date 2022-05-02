@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 ---
+[website]: https://dennisb.net
+[twitter]: https://twitter.com/denismn881
+[linkedin]: 
+---
 <details>
   <summary>:zap: GitHub Stats</summary>
 
