@@ -10,7 +10,8 @@
 </p
   <details>
   <summary>:zap: GitHub Stats</summary>
-
+  <br>
+  
   ![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbatrakov1)
 
   </details>
