@@ -2,12 +2,7 @@
 <details>
 <summary>:zap: GitHub Stats Card</summary>
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbatrakov1)](https://github.com/anuraghazra/github-readme-stats)
-</details>
-<details open>
-<summary>GitHub Stats Card?</summary>
-<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbatrakov1)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbatrakov1)
 </details>
 <!--
 **dbatrakov1/dbatrakov1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
