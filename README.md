@@ -1,7 +1,5 @@
 ### Hi there 👋
-<details>
-<summary>:zap: GitHub Stats Card</summary>
-  </details>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbatrakov1&theme=cobalt&show_icons=true)
 
 <!--
