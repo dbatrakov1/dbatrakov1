@@ -1,6 +1,6 @@
 ### Hi there 👋
 <details>
-<summary>GitHub Stats Card</summary>
+<summary>:zap: GitHub Stats Card</summary>
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbatrakov1)](https://github.com/anuraghazra/github-readme-stats)
 </details>
