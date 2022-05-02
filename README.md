@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 ---
-[website]: https://dennisb.net
-[twitter]: https://twitter.com/denismn881
+### Connect with me:
+
+[![website](globe-light.svg)](https://dennisb.net#gh-light-mode-only)
+[![website](globe-dark.svg)](https://dennisb.net#gh-dark-mode-only)
 
 ---
 <details>
