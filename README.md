@@ -8,13 +8,14 @@
   <img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right: 10px;" />
   <img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right: 10px;" />
 </p
-  <details>
-<summary>How do I dropdown?</summary>
-<br>
-This is how you dropdown.
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  ![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbatrakov1)
+
 </details>
   
-    ![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbatrakov1)
+    
   
 <!--
   ![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbatrakov1)
