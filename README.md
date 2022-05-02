@@ -4,7 +4,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-(https://github-readme-stats.vercel.app/api?username=dbatrakov1)
+  (https://github-readme-stats.vercel.app/api?username=dbatrakov1)
 
 </details>
 
