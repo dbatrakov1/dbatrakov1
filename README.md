@@ -1,7 +1,6 @@
 ## Hi there 👋
 ### I'm a Software Engineer based in Central Minnesota!
 ### Languages and Tools:
-
 <p align="left">
   <img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right: 10px;" />
   <img alt="HTML 5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right: 10px;" />
@@ -9,7 +8,7 @@
   <img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right: 10px;" />
   <img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right: 10px;" />
 </p>
-<br>
+  <br>
   ![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbatrakov1)
 
 <!--
