@@ -1,4 +1,5 @@
 ### Hi there 👋
+## I'm a Software Engineer based in Central Minnesota!
 ![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbatrakov1)
 <!--
 
