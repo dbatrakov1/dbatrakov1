@@ -12,9 +12,12 @@
   <summary> GitHub Stats</summary>
   <br>
   
-  ![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbatrakov1)
+
 
   </details>
+  
+    ![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbatrakov1)
+  
 <!--
   ![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbatrakov1)
   <img alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right: 10px;" />
