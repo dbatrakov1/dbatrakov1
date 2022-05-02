@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
 ![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbatrakov1)
 
 <!--
