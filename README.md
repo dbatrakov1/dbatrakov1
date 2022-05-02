@@ -4,9 +4,10 @@
 <br>
 This is how you dropdown.
 </details>
-![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbatrakov1)
+(https://github-readme-stats.vercel.app/api?username=dbatrakov1)
 
 <!--
+![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbatrakov1)
 **dbatrakov1/dbatrakov1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
