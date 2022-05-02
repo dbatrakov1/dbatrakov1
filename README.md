@@ -1,10 +1,13 @@
 ### Hi there 👋
+
+
 <details>
-<summary>How do I dropdown?</summary>
-<br>
-This is how you dropdown.
-</details>
+  <summary>:zap: GitHub Stats</summary>
+
 (https://github-readme-stats.vercel.app/api?username=dbatrakov1)
+
+</details>
+
 
 <!--
 ![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbatrakov1)
