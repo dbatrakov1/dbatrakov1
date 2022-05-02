@@ -1,10 +1,7 @@
 ### Hi there 👋
 
 ---
-### Connect with me:
 
-
----
 
 
   (https://github-readme-stats.vercel.app/api?username=dbatrakov1)
