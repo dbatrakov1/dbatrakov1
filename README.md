@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbatrakov1&theme=cobalt&show_icons=true)
+![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbatrakov1)
 
 <!--
 **dbatrakov1/dbatrakov1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
