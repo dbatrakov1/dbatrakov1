@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+---
 <details>
   <summary>:zap: GitHub Stats</summary>
 
