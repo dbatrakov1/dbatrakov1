@@ -3,16 +3,12 @@
 ---
 ### Connect with me:
 
-[![website](globe-light.svg)](https://dennisb.net#gh-light-mode-only)
-[![website](globe-dark.svg)](https://dennisb.net#gh-dark-mode-only)
 
 ---
-<details>
-  <summary>:zap: GitHub Stats</summary>
+
 
   (https://github-readme-stats.vercel.app/api?username=dbatrakov1)
 
-</details>
 
 
 <!--
